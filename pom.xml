@@ -3,14 +3,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>Range-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.1-SNAPSHOT</version> 
+	<version>0.0.1</version> 
 	
-	<name>maven-web-application</name>
+	<name>Range-web-application</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>Range Web Project for Java Project</description>
 
 	<organization>
 		<name>Landmark Technologies</name>
@@ -22,7 +22,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http:3.22.166.76:9000/</sonar.host.url>
+		<sonar.host.url>http:54.147.170.195:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -96,19 +96,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://100.26.133.141:8081/repository/paypal-releases/</url>
+	      <url>http://54.226.95.94:8081/repository/Range-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.118.29.219:8081/repository/paypal-snapshots/</url>
+	      <url>http://54.226.95.94:8081/repository/range-app-Snapshots//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>Range-web-app</finalName>
 		
 		<plugins>
 			<plugin>
@@ -128,7 +128,7 @@
 				<configuration>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 					<webApp>
-						<contextPath>/maven-web-application</contextPath>
+						<contextPath>/range-web-application</contextPath>
 					</webApp>
 				</configuration>
 			</plugin>
@@ -141,7 +141,7 @@
 					<downloadSources>true</downloadSources>
 					<downloadJavadocs>true</downloadJavadocs>
 					<wtpversion>2.0</wtpversion>
-					<wtpContextName>maven-web-application</wtpContextName>
+					<wtpContextName>range-web-application</wtpContextName>
 				</configuration>
 			</plugin>
 			
