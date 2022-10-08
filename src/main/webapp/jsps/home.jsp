@@ -4,15 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
+<title>Range Rover- Home Page</title>
 <link href="images/mylandmarklogo.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	           We are raising over 1m millionaires by 2030.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<h1 align="center">Range Rover Classic.</h1>
+<h1 align="center">Luxury, performance and capability taken to new levels to create unique Land Rover vehicles.
+	           Your Land Rover vehicle goes Above & Beyond
+	Range Rover Sport Dynamic brings distinctive design touches.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,10 +34,10 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+                Range over wearhouse  
+		Bannister Court, Frederick, Maryland
+		+1301-328-6360
+		rangeoverlux@gmail.com
 		<br>
 		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
 	</span>
@@ -46,8 +46,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center>aguar Land Rover North America, LLC - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Local authorized Land Rover Retailer</a> </small></p>
 
 </body>
 </html>
